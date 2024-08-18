@@ -16,3 +16,5 @@
 /integration_tests/typescript_web/generated/
 /integration_tests/typescript_web/node_modules/
 /target/
+/.direnv
+/result
